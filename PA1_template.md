@@ -1,0 +1,29 @@
+---
+title: "Reproducible Research: Peer Assessment 1"
+input: 
+    Rmd_document: 
+        PA1_template.RMD
+output: 
+  html_document:
+        PA1_template.html
+    
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
