@@ -1,8 +1,12 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+input: 
+    Rmd_document: 
+        PA1_template.RMD
 output: 
   html_document:
-    keep_md: true
+        PA1_template.html
+    
 ---
 
 
